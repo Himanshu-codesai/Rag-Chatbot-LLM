@@ -28,7 +28,7 @@ def load_chunk_pdf(pdf_files):
 
 
 def main():
-    start_time = time.time()
+    question_start_time = time.time()
 
     print("PDF Document Chunking and Analysis")
 
@@ -69,7 +69,10 @@ def main():
             
             answer = response.generations[0][0].text
             
+            question_end_time = time.time()
+            
             print(f"\nAnswer: {answer}")
+            print(f"Time taken to answer the question: {question_end_time - question_start_time:.2f} seconds")
         else:
             print("No document chunks available.")
             
