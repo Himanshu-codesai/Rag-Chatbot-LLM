@@ -8,6 +8,7 @@ faiss-cpu
 psycopg2
 streamlit
 python-dotenv
+virtualenv
 langchainhub
 langchain-core
 langchain-objectbox
