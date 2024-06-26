@@ -2,7 +2,7 @@
 
 ## Installation
 
-- git clone https://github.com/Himanshu-codesai/Rag-Chatbot-LLM.git
+- Git clone https://github.com/Himanshu-codesai/Rag-Chatbot-LLM.git
 
 - pip install -r requirements.txt
 
