@@ -1,0 +1,5 @@
+CREATE TABLE pdf_files (
+    id SERIAL PRIMARY KEY,
+    filename TEXT,
+    file_data BYTEA
+);
