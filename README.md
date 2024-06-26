@@ -1,3 +1,10 @@
 # Rag-Chatbot-LLM
 
-![Example Image](Result_images/Results-of-rag-cli-based-qna.png)
+## Installation
+
+git clone https://github.com/Himanshu-codesai/Rag-Chatbot-LLM.git
+
+pip install -r requirements.txt
+
+[Download Ollama from here](https://ollama.com/download)
+
