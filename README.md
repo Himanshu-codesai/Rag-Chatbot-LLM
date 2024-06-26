@@ -14,5 +14,3 @@ After Ollama installation , open cmd terminal and put below two commands -
 Ollama pull mistral & Ollama pull nomic-embed-text
 
 Open Report File - Report.docx for further information.
-
-
