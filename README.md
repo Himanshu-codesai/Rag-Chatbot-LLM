@@ -8,3 +8,10 @@ pip install -r requirements.txt
 
 [Download Ollama from here](https://ollama.com/download)
 
+After Ollama installation , open cmd terminal and put below two commands - 
+
+Ollama pull mistral 
+and 
+Ollama pull nomic-embed-text
+
+
