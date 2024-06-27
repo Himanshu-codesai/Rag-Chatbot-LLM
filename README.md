@@ -4,8 +4,9 @@
 ```
 Git clone https://github.com/Himanshu-codesai/Rag-Chatbot-LLM.git
 ```
+```
 - pip install -r requirements.txt
-
+```
 - We use Ollama to run the llms model on our local server.
 [Download Ollama from here](https://ollama.com/download)
 
