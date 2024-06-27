@@ -1,6 +1,13 @@
 # Rag-Chatbot-LLM
 
 ## Installation
+
+### Create Virtual Environment
+```
+pip install virtualenv
+virtualenv venv
+venv\Scripts\activate
+```
 ```
 Git clone https://github.com/Himanshu-codesai/Rag-Chatbot-LLM.git
 ```
