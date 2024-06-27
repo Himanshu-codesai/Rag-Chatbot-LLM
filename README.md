@@ -24,4 +24,4 @@ pip install -r requirements.txt
 ```
 Ollama pull mistral & Ollama pull nomic-embed-text
 ```
-- For detailed information, please refer to the [Report.docx](Report.docx).
+- For more next detailed information, please refer to the [Report.docx](Report.docx).
