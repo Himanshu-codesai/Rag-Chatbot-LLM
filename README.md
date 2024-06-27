@@ -1,9 +1,9 @@
 # Rag-Chatbot-LLM
 
 ## Installation
-
-- Git clone https://github.com/Himanshu-codesai/Rag-Chatbot-LLM.git
-
+```
+Git clone https://github.com/Himanshu-codesai/Rag-Chatbot-LLM.git
+```
 - pip install -r requirements.txt
 
 - We use Ollama to run the llms model on our local server.
