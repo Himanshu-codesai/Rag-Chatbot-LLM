@@ -25,3 +25,6 @@ pip install -r requirements.txt
 Ollama pull mistral & Ollama pull nomic-embed-text
 ```
 - For more next detailed information, please refer to the [Report.docx](Report.docx).
+
+### Optional Codes
+- I have also implemented some code using streamlit,Groq based implementation of RAG. 
