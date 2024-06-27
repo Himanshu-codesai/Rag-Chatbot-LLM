@@ -9,6 +9,7 @@ virtualenv venv
 venv\Scripts\activate
 ```
 ```
+### Clone the Repository
 Git clone https://github.com/Himanshu-codesai/Rag-Chatbot-LLM.git
 ```
 ```
