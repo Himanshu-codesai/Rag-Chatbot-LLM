@@ -1,4 +1,23 @@
 # Rag-Chatbot-LLM
+## Project Description
+
+**Rag-Chatbot-LLM** is an integrated question-and-answer system that combines command-line interface (CLI) interactions, web-based file uploads, and database management. This project leverages Retrieval-Augmented Generation (RAG) for enhanced Q&A capabilities and supports various data sources, including PDFs and YouTube video content.
+
+### Key Features
+
+- **CLI-Based Q&A**: Provides real-time Q&A functionality directly from the command line using RAG.
+- **Web Interface**: Developed with Streamlit to allow users to upload files and perform Q&A. Includes support for YouTube video content translation.
+- **Database Integration**: Utilizes PostgreSQL and ChromaDB for storing and managing data, with table structures defined for PDF storage and retrieval.
+- **API Integration**: Implements GROQ API for advanced language model capabilities.
+
+### Tools, Libraries, and Databases Used
+
+- **Programming Languages**: Python
+- **Frameworks**: Flask, Streamlit
+- **APIs**: GROQ API
+- **Databases**: PostgreSQL, ChromaDB
+- **Libraries**: RAG, SQLAlchemy, psycopg2
+- **Development Tools**: Postman, CLI (Command Line Interface)
 
 ## Installation
 
